@@ -14,7 +14,7 @@
 
 ## Overview
 
-AuxoBSD is an experimental BSD-inspired operating system targeting the x86_64 architecture.
+AuxoBSD is an experimental BSD-inspired operating system targeting the x86_64 architecture, port of Auxo Linux.
 
 Its kernel combines low-level Assembly, C, and Rust to build a modular foundation for memory management, process scheduling, interrupt handling, and system calls.
 
